@@ -2,9 +2,9 @@
 # Assignment 2: Play with a 2x2 Rubik Cube
 by 
 
-**NAME**:
+**NAME**:Muhammad Nur Fikri bin Azari
 
-**Matric ID**
+**Matric ID**: 2112161
 
 ## Objective
 
@@ -20,3 +20,5 @@ by
 
 Tips:
 Make sure to look at https://docs.flutter.dev/cookbook/lists/grid-lists to get a hang of the flutter grid layout which is being used in the code.
+
+I completed all the faces functions and added buttonsto interact with the cube.
